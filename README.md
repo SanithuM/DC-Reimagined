@@ -36,11 +36,3 @@ This project is for learning and practice purposes only — not an official DC w
 - **Lucide React / React Icons** – iconography  
 - **React Router DOM** – page routing  
 
----
-
-## 📦 Installation
-
-1. Clone the repository  
-
-```bash
-git clone https://github.com/your-username/dc-reimagined.git
