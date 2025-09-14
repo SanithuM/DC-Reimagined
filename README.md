@@ -1,12 +1,46 @@
-# React + Vite
+# 🌌 DC Reimagined
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern reimagined DC Universe fan website built with **React** and **Tailwind CSS**.  
+It showcases DC Comics, Movies & TV, News, and Characters in an interactive and visually appealing way.  
+This project is for learning and practice purposes only — not an official DC website.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### Homepage
+![Homepage Screenshot](src/assets/home.jpg)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Movies Page
+![Movies Page Screenshot](src/assets/comic.jpg)
+
+---
+
+## ⚙️ Features
+
+- 🎨 **Modern UI** inspired by [dc.com](https://www.dc.com)  
+- 🎥 **Featured video player** with in-site playback  
+- 📚 **Comics & Characters carousel** with smooth animations  
+- 📰 **News section** styled like official DC site  
+- 🔐 **Sign Up / Log In pages** with social login buttons  
+- 📩 **Newsletter subscription** in the footer  
+- 🖱 **Hover animations & dropdown menus** for better navigation  
+
+---
+
+## 🛠 Tech Stack
+
+- **React** – component-based frontend  
+- **Tailwind CSS** – utility-first styling  
+- **Framer Motion** – animations & transitions  
+- **Lucide React / React Icons** – iconography  
+- **React Router DOM** – page routing  
+
+---
+
+## 📦 Installation
+
+1. Clone the repository  
+
+```bash
+git clone https://github.com/your-username/dc-reimagined.git
